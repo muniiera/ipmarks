@@ -5,8 +5,6 @@ A web-based system designed to manage, track, and display students' project mark
 ## 🚀 Features
 
 - Add and edit student assessment marks
-- View and filter marks by subject or student
-- Export results for analysis
 - Lightweight and user-friendly interface
 
 ## 🛠️ How to Run
